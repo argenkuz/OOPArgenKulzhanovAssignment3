@@ -43,25 +43,4 @@ The `main.py` file demonstrates the usage of these classes by allowing user inpu
   - `__add__(self, amount)`: Overloads `+` operator to deposit money.
   - `__sub__(self, amount)`: Overloads `-` operator to withdraw money.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/personal-account.git
-   cd personal-account
-   ```
-2. Run the `main.py` file:
-   ```bash
-   python main.py
-   ```
-3. Follow the prompts to deposit, withdraw, and check your account balance.
-
-## UML Class Diagram
-Refer to the `uml_diagram.png` file for a visual representation of the class relationships.
-
-## Dependencies
-- Python 3.x
-- `datetime` module (built-in)
-
-## License
-This project is licensed under the MIT License.
 
