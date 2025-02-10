@@ -43,4 +43,5 @@ The `main.py` file demonstrates the usage of these classes by allowing user inpu
   - `__add__(self, amount)`: Overloads `+` operator to deposit money.
   - `__sub__(self, amount)`: Overloads `-` operator to withdraw money.
 
+<img width="1139" alt="Снимок экрана 2025-02-10 в 22 50 13" src="https://github.com/user-attachments/assets/99ed6471-81ea-481e-b59f-8fa4b9d30554" />
 
