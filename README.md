@@ -4,17 +4,16 @@
 This project uses Python to construct a basic personal bank account system. There are two primary classes in it:
 
 - **Amount**: Indicates the amount of a transaction together with its type and timestamp.
-A personal bank account that keeps track of deposits, withdrawals, and transaction history is represented by the **PersonalAccount**.
+- **PersonalAccount**:  that keeps track of deposits, withdrawals, and transaction history is represented by the **PersonalAccount**.
 
 By enabling user input for deposits and withdrawals, the `main.py` program illustrates how to use these classes.
 
-
 ## Features
--Establish a private bank account.
--Make deposits and withdrawals.
--Keep a record of all transactions.
+- Establish a private bank account.
+- Make deposits and withdrawals.
+- Keep a record of all transactions.
 - Get the balance and account information.
--The `+` and `-` operators for deposits and withdrawals are overloaded.
+- The `+` and `-` operators for deposits and withdrawals are overloaded.
 
 
 ## Class Structure
