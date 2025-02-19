@@ -52,3 +52,21 @@ By enabling user input for deposits and withdrawals, the `main.py` program illus
 
 <img width="1091" alt="Снимок экрана 2025-02-11 в 11 03 45" src="https://github.com/user-attachments/assets/b640b6e0-3f83-4847-99a1-fef1de67ab87" />
 
+### Output
+```
+[2025-02-19 17:14:43] DEPOSIT: $100.50
+[2025-02-19 17:14:43] WITHDRAWAL: $50.75
+Current balance09439999
+Account number: 230120112
+After changing the account number: 987652
+Account holder: Argen Kulzhanov
+After changing account holder: Argen 
+Balance: 9999 
+Account number: 987652
+Account holder: Argen 
+After adding and subtracting balance: 10099
+
+Process finished with exit code 0
+
+```
+
